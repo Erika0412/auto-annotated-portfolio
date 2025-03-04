@@ -133,4 +133,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
